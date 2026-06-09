@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaushik Aduri</h1>
-<h3 align="center">An ML and Data Science enthusiast</h3>
+<h3 align="center">A Network Engineer and an AI Enthusiast</h3>
 
 <img align="right" alt="gif" width="300" src="https://ask.libreoffice.org/uploads/asklibo/original/3X/0/d/0de586544bba6cc70466cd97b45686d5dcbca532.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kok363&label=Profile%20views&color=0e75b6&style=flat" alt="kok363" /> </p>
 
-- 🔭 I’m currently preparing for **TensorFlow Developer certificate and Cloud certifications and**
+- 🔭 I’m currently preparing for **CCNA certification and Kubernetes certifications**
 
-- 🌱 I’m currently learning **AWS fundamentals, Natural Language Processing**
-
-- 💬 Ask me about **Data Analytics**
+- 🌱 I’m currently learning **Datacenter Networking fundamentals, AI enhancements and more on AI Cloud Integrations**
 
 - 📫 How to reach me **kaushikaduri03@gmail.com**
 
